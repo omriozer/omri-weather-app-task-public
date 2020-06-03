@@ -1,0 +1,23 @@
+.favoriteItem {
+    font-family: fantasy;
+    font-size: 22px;
+    float: left;
+}
+
+.favoriteWeatherIconDiv {
+    margin-top: -10px;
+}
+
+.eraserIcon {
+    position: relative;
+    margin-top: 5px;
+}
+
+
+.displayFavoriteCity {
+    position: relative;
+    background-color: rgb(238, 234, 228);
+    border-radius: 5px;
+    font-size: 18px;
+
+}
